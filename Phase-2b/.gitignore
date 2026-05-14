@@ -1,0 +1,11 @@
+phase2b
+*.o
+.DS_Store
+__MACOSX/
+soc-LiveJournal1-weighted.txt
+BFS.txt
+SSSP.txt
+CC.txt
+BFS_2b.txt
+SSSP_2b.txt
+CC_2b.txt
