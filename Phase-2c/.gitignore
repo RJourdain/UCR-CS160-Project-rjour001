@@ -1,0 +1,13 @@
+phase2c
+week5_lab
+*.o
+.DS_Store
+__MACOSX/
+soc-LiveJournal1-weighted.txt
+roadNet-CA.txt
+BFS.txt
+SSSP.txt
+CC.txt
+BFS_2c.txt
+SSSP_2c.txt
+CC_2c.txt
